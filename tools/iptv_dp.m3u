@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="", An Giang
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Bà Rịa - Vũng Tàu
+http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Bạc Liêu
+https://tv.thbl.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-logo="", Bắc Giang
+http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-logo="", Bắc Kạn
+http://113.160.162.131:8080/tv/bk.m3u8
+#EXTINF:-1 tvg-logo="", Bắc Ninh
+http://118.107.85.4:1935/live/smil:BTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg", Bến Tre
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+#EXTINF:-1 tvg-logo="", Bình Dương 1
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BINHDUONG1-SD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Bình Dương 2
+https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="", Bình Dương 3
+
+#EXTINF:-1 tvg-logo="", Bình Dương 4
+https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="", Bình Dương 5
+
+#EXTINF:-1 tvg-logo="", Bình Định
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+#EXTINF:-1 tvg-logo="", Bình Phước 1
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+#EXTINF:-1 tvg-logo="", Bình Phước 2
+https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
+#EXTINF:-1 tvg-logo="", Bình Thuận
+http://202.43.109.142:1935/thbttv/bttv/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Cà Mau
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-logo="", Cao Bằng
+http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Cần Thơ
+https://mekongpassion.com/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.drt.danang.vn/images/drt1.png" ,Đà Nẵng 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.drt.danang.vn/images/drt2.png" ,Đà Nẵng 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="", Đắk Lắk
+https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="", Đắk Nông
+https://htv-drm-live-cdn.fptplay.net/htvonline/daknong.480p.nimble.tms/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Điện Biên
+https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="", Đồng Nai 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Đồng Nai 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Đồng Tháp 1
+http://202.43.109.142:1935/THDT/thdttv/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Đồng Tháp 2
+http://202.43.109.145:1935/thdt2/thdt2/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Gia Lai
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1 tvg-logo="", Hà Giang
+http://113.162.84.113:8080/hls/fm/index.m3u8
+#EXTINF:-1 tvg-logo="", Hà Nam
+http://117.4.240.220/Medias/HaNam/Playlist.m3u8
+#EXTINF:-1 tvg-logo="", Hà Nội 1
+https://livetv.hanoitv.vn/hanoi1.m3u8
+#EXTINF:-1 tvg-logo="", Hà Nội 2
+https://livetv.hanoitv.vn/hanoi2.m3u8
+#EXTINF:-1 tvg-logo="", Hà Tĩnh
+http://hatinhtv.vn:82/hls/httv.m3u8
+#EXTINF:-1 tvg-logo="", Hải Dương
+https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_THP_chuan_2017.jpg" ,Hải Phòng
+https://live.thhp.vn/thp/index.m3u8?1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ui0sjEz.png" ,Hải Phòng Plus
+https://live.thhp.vn/hls/thpplus/index.m3u8?1
+#EXTINF:-1 tvg-logo="", Hậu Giang
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAUGIANG-SD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Hoà Bình
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Hưng Yên
+http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
+#EXTINF:-1 tvg-logo="", Khánh Hoà
+http://210.245.20.94/ktv.m3u8
+#EXTINF:-1 tvg-logo="", Kiên Giang
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 tvg-logo="", Kiên Giang 1
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-logo="", Kon Tum
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:-1 tvg-logo="", Lai Châu
+https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="", Lạng Sơn
+http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+#EXTINF:-1 tvg-logo="", Lào Cai
+http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+#EXTINF:-1 tvg-logo="", Lâm Đồng
+http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Long An
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+#EXTINF:-1 tvg-logo="", Nam Định
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="", Nghệ An
+https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+#EXTINF:-1 tvg-logo="", Ninh Bình
+https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-logo="", Ninh Thuận
+rtmp://203.113.166.233/live/NTV_VIDEO
+#EXTINF:-1 tvg-logo="", Phú Thọ
+http://livecdn.fptplay.net/sda/phutho_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Phú Yên
+http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:-1 tvg-logo="", Quảng Bình
+https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="", Quảng Nam
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="", Quảng Ngãi
+http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Quảng Ninh 1
+http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-logo="", Quảng Ninh 3
+http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-logo="", Quảng Trị
+http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-logo="", Sóc Trăng 1
+http://115.78.3.164:8135/liveevent.m3u8
+#EXTINF:-1 tvg-logo="", Sóc Trăng 2
+http://115.78.3.164:8135/liveeventstv2.m3u8
+#EXTINF:-1 tvg-logo="", Sơn La
+http://118.107.85.5:1935/live/smil:STV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Tây Ninh
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Thái Bình
+http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-logo="", Thái Nguyên
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-logo="", Thanh Hoá
+http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
+#EXTINF:-1 tvg-logo="", Thừa Thiên Huế
+https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="", Tiền Giang
+http://thtg.vn:8001/thtg.m3u8
+#EXTINF:-1 tvg-logo="", Trà Vinh
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="", Tuyên Quang
+https://live.tuyenquangtv.vn/hls/ttv.m3u8
+#EXTINF:-1 tvg-logo="", Vĩnh Long 1
+https://liveweb.thvli.vn/thvl/thvl1.m3u8
+#EXTINF:-1 tvg-logo="", Vĩnh Long 2
+https://thvl111220.cdn.vnns.io/thvl2-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Vĩnh Long 3
+https://liveweb.thvli.vn/thvl/thvl3.m3u8
+#EXTINF:-1 tvg-logo="", Vĩnh Long 4
+https://thvl111220.cdn.vnns.io/thvl4-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Vĩnh Phúc
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Yên Bái
+https://yenbaitv.org.vn/hls/livestream.m3u8
