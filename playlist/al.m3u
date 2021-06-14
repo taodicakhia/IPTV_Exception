@@ -9,8 +9,6 @@ https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8
 https://tvlive.rtsh.dev/live/rtsh3ottp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="", RTSH 24
 https://tvlive.rtsh.dev/live/rtsh_24_ott_p2/playlist.m3u8
-#EXTINF:-1 tvg-logo="", ABC News
-https://tvlive.rtsh.dev/live/rtsh_24_ott_p2/playlist.m3u8
 #EXTINF:-1 tvg-logo="", RTSH Sport
 https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
 #EXTINF:-1 tvg-logo="", RTSH Shkolle
@@ -75,3 +73,9 @@ https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/al/faxnews.m3u
 https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/al/starplustv.m3u8
 #EXTINF:-1 tvg-logo="", Top News
 https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/al/topnews.m3u8
+#EXTINF:-1 tvg-logo="", Channel One OBTV
+https://2-fss-2.themediacdn.com/pl_112/200126-8082-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="", Channel Two OBTV
+https://2-fss-2.themediacdn.com/pl_118/200126-84114-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="", Syri TV
+https://tv.syri.net/syrilive/webtv/playlist.m3u8
