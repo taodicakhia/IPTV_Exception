@@ -9,8 +9,6 @@ https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8
 https://tvlive.rtsh.dev/live/rtsh3ottp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="", RTSH 24
 https://tvlive.rtsh.dev/live/rtsh_24_ott_p2/playlist.m3u8
-#EXTINF:-1 tvg-logo="", ABC News
-https://tvlive.rtsh.dev/live/rtsh_24_ott_p2/playlist.m3u8
 #EXTINF:-1 tvg-logo="", RTSH Sport
 https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
 #EXTINF:-1 tvg-logo="", RTSH Shkolle
