@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="", ATN News (480p)
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", ATN TV (480p)
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", ATN US (480p)
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Tolo News
+https://fflivetolonews.b-cdn.net/master.m3u8
+#EXTINF:-1 tvg-logo="", Tolo TV
+https://fflivetolotv.b-cdn.net/master.m3u8
+#EXTINF:-1 tvg-logo="", Lemar TV
+https://fflivelemar.b-cdn.net/master.m3u8
+#EXTINF:-1 tvg-logo="", Tolo Music
+https://fflivetolomusic.b-cdn.net/master.m3u8
+#EXTINF:-1 tvg-logo="", 1TV
+https://afghantv.live/1tv/index.m3u8?token=b3c3b25ae7d74634bc460d269290d0650527b4f5-e03f84202908b6766b9afe7c16e92a3e-1623665673-1623579273
+#EXTINF:-1 tvg-logo="", Khurshid TV
+https://afghantv.live/khurshid/index.m3u8?token=e342e601e501ae7332cf65297a8fe8c0e4bed89e-26d4c09ec02bc13d2c62b48a89def551-1623665675-1623579275
+#EXTINF:-1 tvg-logo="", Shamshad
+https://afghantv.live/shamshad/index.m3u8?token=83142bcbb01ec301ec56678ab594ad0632c5238e-71f4ee7cb5875f14ff932cdfcfa57fb9-1623665676-1623579276
+#EXTINF:-1 tvg-logo="", Arezo
+https://afghantv.live/arezo/index.m3u8?token=603861818976aa0ababb4fde34fe722067b1fdd8-ee3c91806503a366c7e7c84f43a724af-1623665680-1623579280
+#EXTINF:-1 tvg-logo="", RTA
+https://afghantv.live/rta/index.m3u8?token=bc23848caf09e79ef2e16c07282d4e4c0ba07c0a-3c0b71362a17ab12984c16aa28c889ba-1623665681-1623579281
+#EXTINF:-1 tvg-logo="", Enikass
+https://afghantv.live/enikass/index.m3u8?token=dcab82be0fdc1eae3136a835412cea3fc0a7e5b3-caef878b0904765b6ce6034142629551-1623665683-1623579283
+#EXTINF:-1 tvg-logo="", Ayna
+https://afghantv.live/ayna/index.m3u8?token=d5eb993fd98d4180b2766044cb9ec7e32d897120-b070d84b9c8110b084b1dbe94ac9e18f-1623665685-1623579285
+#EXTINF:-1 tvg-logo="", Zhwandoon
+https://afghantv.live/zhwandoon/index.m3u8?token=f9ec9f235fc8aa00a04d38b19bdf670ceee9e5a6-85e6ecf07834668526c9b49be676a2bb-1623665686-1623579286
+#EXTINF:-1 tvg-logo="", Batur
+https://afghantv.live/batur/index.m3u8?token=66d134d1f92117b870a73e61fb630d1a197534e8-b0f50be04d2e263c8694c0277cd2e9a6-1623665690-1623579290
+#EXTINF:-1 tvg-logo="", Noor
+https://afghantv.live/noor/index.m3u8?token=1da08d9f8fddb031d28cc1533f41aec4f66c8d6b-0fee94492736a5ac982cdc30a7fae21a-1623665691-1623579291
+#EXTINF:-1 tvg-logo="", Tamadon
+https://afghantv.live/tamadon/index.m3u8?token=56bb1c4f17630ba63f7ac0e6ec02cb26b9ca3b82-ff97e2abf6e6bc557eeb3e5a7ccc03fa-1623665695-1623579295
+#EXTINF:-1 tvg-logo="", Hewad
+https://afghantv.live/hewad/index.m3u8?token=29cd8f497ce013d7807a97a6f71f25d449135d23-0fbbd81f002c17555ad95bf33fd287b2-1623665697-1623579297
+#EXTINF:-1 tvg-logo="", Zarin
+https://afghantv.live/zarin/index.m3u8?token=9a907b2db27e109137ecbae1c9e67526ce044ebc-6d8f2b6f613b2c174ab397802b7797d8-1623665700-1623579300
+#EXTINF:-1 tvg-logo="", Pamir TV (1080p)
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8   
+#EXTINF:-1 tvg-logo="", Kayhan
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
