@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1132399,RESOLUTION=640x360,CODECS="avc1.64001f,mp4a.40.2"
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
