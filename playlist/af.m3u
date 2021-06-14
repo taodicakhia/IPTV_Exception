@@ -6,13 +6,13 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="", ATN US (480p)
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Tolo News
-https://fflivetolonews.b-cdn.net/master.m3u8
+https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/af/tolonews.m3u8
 #EXTINF:-1 tvg-logo="", Tolo TV
-https://fflivetolotv.b-cdn.net/master.m3u8
+https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/af/tolotv.m3u8
 #EXTINF:-1 tvg-logo="", Lemar TV
-https://fflivelemar.b-cdn.net/master.m3u8
+https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/af/lemartv.m3u8
 #EXTINF:-1 tvg-logo="", Tolo Music
-https://fflivetolomusic.b-cdn.net/master.m3u8
+https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/af/tolomusic.m3u8
 #EXTINF:-1 tvg-logo="", 1TV
 https://afghantv.live/1tv/index.m3u8?token=b3c3b25ae7d74634bc460d269290d0650527b4f5-e03f84202908b6766b9afe7c16e92a3e-1623665673-1623579273
 #EXTINF:-1 tvg-logo="", Khurshid TV
