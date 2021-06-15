@@ -1,4 +1,4 @@
-#EXTM3U
+`#EXTM3U
 #EXTINF:-1 tvg-logo="", TV1
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="", TV2
@@ -38,8 +38,8 @@ https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Lina TV
 https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Samira TV
-https://cdn02.hta.dz/abr_htatv/SamiraTV/htatv/SamiraTV_720p/chunks.m3u8
+https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="", El Djazair N1
-https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
 #EXTINF:-1 tvg-logo="",BAHIA TV
-https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
