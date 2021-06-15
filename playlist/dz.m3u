@@ -1,4 +1,4 @@
-`#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="", TV1
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="", TV2
