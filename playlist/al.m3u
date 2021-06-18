@@ -62,7 +62,7 @@ http://195.154.252.221:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="", RTV Ilirida
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-logo="", TV 7 Albania
-http://media.az-mediase rver.com:1935/7064/7064/playlist.m3u8
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="", Apollon TV
@@ -72,10 +72,12 @@ https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/al/faxnews.m3u
 #EXTINF:-1 tvg-logo="", Star Plus TV
 https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/al/starplustv.m3u8
 #EXTINF:-1 tvg-logo="", Top News
-https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/al/topnews.m3u8
+https://iptv--iptv.repl.co/streamlink?url=https://www.dailymotion.com/embed/video/x6inuzo
 #EXTINF:-1 tvg-logo="", Channel One OBTV
 https://2-fss-2.themediacdn.com/pl_112/200126-8082-1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", Channel Two OBTV
 https://2-fss-2.themediacdn.com/pl_118/200126-84114-1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="", Syri TV
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
