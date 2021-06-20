@@ -15,10 +15,10 @@ https://c.mjh.nz/101002210221/
 https://c.mjh.nz/snowy-mountains/
 #EXTINF:-1 tvg-logo="", Sky Racing - Thoroughbred Central
 https://i.mjh.nz/au/Sydney/tv.skyrtc.m3u8
-#EXTINF:-1 tvg-logo="", Sky Racing #2
-https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8
-#EXTINF:-1 tvg-logo="", Sky Racing #1
+#EXTINF:-1 tvg-logo="", Sky Racing 1
 https://i.mjh.nz/au/Sydney/tv.sky1rw.m3u8
+#EXTINF:-1 tvg-logo="", Sky Racing 2
+https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8
 #EXTINF:-1 tvg-logo="", Redbull TV
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
 #EXTINF:-1 tvg-logo="", Bloomberg Australia
@@ -29,70 +29,49 @@ https://i.mjh.nz/au/Sydney/tv.46.m3u8
 https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
 #EXTINF:-1 tvg-logo="", 3AW (Melburne)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-#EXTINF:-1 tvg-logo="", Action Hollywood Movies (1080p)
+#EXTINF:-1 tvg-logo="", Action Hollywood Movies 
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Aus Biz TV
 https://ausbiztv-ausbiz-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Aus Tamil
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="", Australia Channel (720p)
+#EXTINF:-1 tvg-logo="", Australia Channel 
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1 tvg-logo="", Bounty Plus (720p)
+#EXTINF:-1 tvg-logo="", Bounty Plus 
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="", C31 (Melbourne) (404p)
+#EXTINF:-1 tvg-logo="", C31 (Melbourne) 
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
 #EXTINF:-1 tvg-logo="", Channel 44
 https://iptv-all.lanesh4d0w.codes/australia/ch44
-#EXTINF:-1 tvg-logo="", Dry Bar Comedy (720p)
+#EXTINF:-1 tvg-logo="", Dry Bar Comedy 
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="", Expo Channel (360p)
+#EXTINF:-1 tvg-logo="", Expo Channel 
 https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
-#EXTINF:-1 tvg-logo="", Horse and Country (720p)
+#EXTINF:-1 tvg-logo="", Horse and Country 
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", M4TV
 https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
 #EXTINF:-1 tvg-logo="", Open Shop
 https://medialive.openshop.com.au/asn-live_1.m3u8
-#EXTINF:-1 tvg-logo="", Pulse (1080p)
+#EXTINF:-1 tvg-logo="", Pulse 
 https://lightning-pulse-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="", Qwest TV Classical (720p)
+#EXTINF:-1 tvg-logo="", Qwest TV Classical 
 https://qwestclassic-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="", Qwest TV Jazz and Beyond (720p)
+#EXTINF:-1 tvg-logo="", Qwest TV Jazz and Beyond 
 https://qwestjazz-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="", Qwest TV Mix (720p)
+#EXTINF:-1 tvg-logo="", Qwest TV Mix 
 https://qwestmix-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="", Race Central TV (720p)
+#EXTINF:-1 tvg-logo="", Race Central TV 
 https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
 #EXTINF:-1 tvg-logo="", Racing.com
 https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/au/racingdotcom.m3u8
-#EXTINF:-1 tvg-logo="", Real Stories (720p)
+#EXTINF:-1 tvg-logo="", Real Stories 
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="", Ryan and Friends (1080p)
-https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Sky 1 Racing (720p)
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1 tvg-logo="",Sky 2 Racing (720p)
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1 tvg-logo="",Sky Racing 1 (720p) [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.sky1rw.m3u8
-#EXTINF:-1 tvg-logo="",Sky Racing 1
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1 tvg-logo="",Sky Racing 2 (720p) [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8
-#EXTINF:-1 tvg-logo="",Sky Racing 2
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF:-1 tvg-logo="",Sky Thoroughbred Central [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.skyrtc.m3u8
-#EXTINF:-1 tvg-logo="",Sky Thoroughbred Central
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-#EXTINF:-1 tvg-logo="",Snowy Mountains Television (1082p) [Geo-blocked]
-https://c.mjh.nz/snowy-mountains/
-#EXTINF:-1 tvg-logo="",Snowy Mountains Television (1082p)
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 tvg-logo="",Travel & Food TV (720p)
+#EXTINF:-1 tvg-logo="", Ryan and Friends 
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8p
+#EXTINF:-1 tvg-logo="", Travel & Food TV 
 https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
-#EXTINF:-1 tvg-logo="",TVSN
+#EXTINF:-1 tvg-logo="", TVSN
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn.m3u8
-#EXTINF:-1 tvg-logo="",VENN (1080p)
+#EXTINF:-1 tvg-logo="", VENN 
 https://venntv-samsungau.amagi.tv/playlist.m3u8
