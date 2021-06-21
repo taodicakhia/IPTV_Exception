@@ -51,8 +51,6 @@ https://live1.mediadesk.al/oranews.php
 https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="", TV JOHANITER
 https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="", Premium Channel
-http://premium-channel.tv:88/live/kali.m3u8
 #EXTINF:-1 tvg-logo="", ALBUK TV HD
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="", ALPO
