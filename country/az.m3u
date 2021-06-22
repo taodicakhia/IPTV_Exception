@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="", ARB
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 tvg-logo="", ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 tvg-logo="", ARB Günəş
+https://az2.canlitvplayer.com/azerbaijan/gunes/playlist.m3u8
+#EXTINF:-1 tvg-logo="", ATV 1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 tvg-logo="", ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 tvg-logo="", ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 tvg-logo="", Az News TV
+https://swow1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", AZTV
+https://streams.livetv.az/azerbaijan/aztv_stream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="", CBC
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="", ELTV
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="", İTV
+https://streams.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Idman TV
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="", QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1 tvg-logo="", STAR TV SD
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TV7
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
+#EXTINF:-1 tvg-logo="", Xəzər
+https://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8
