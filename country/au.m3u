@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="", 10 Shake (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
+#EXTINF:-1 tvg-logo="", 10 Peach (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+#EXTINF:-1 tvg-logo="", 10 Bold (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
+#EXTINF:-1 tvg-logo="", 10 (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+#EXTINF:-1 tvg-logo="", Seven (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+#EXTINF:-1 tvg-logo="", PAC-12 (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
+#EXTINF:-1 tvg-logo="", Outdoor Channel (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
+#EXTINF:-1 tvg-logo="", Olympics Channel (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
+#EXTINF:-1 tvg-logo="", Fuel TV (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
+#EXTINF:-1 tvg-logo="", 7mate (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
+#EXTINF:-1 tvg-logo="", 7flix (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+#EXTINF:-1 tvg-logo="", 7TWO (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+#EXTINF:-1 tvg-logo="", SBS World Movies (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+#EXTINF:-1 tvg-logo="", SBS VICELAND (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+#EXTINF:-1 tvg-logo="", SBS Food (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
+#EXTINF:-1 tvg-logo="", SBS (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+#EXTINF:-1 tvg-logo="", NITV (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
+#EXTINF:-1 tvg-logo="", Nine (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+#EXTINF:-1 tvg-logo="", 9Rush (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
+#EXTINF:-1 tvg-logo="", 9Life (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
+#EXTINF:-1 tvg-logo="", 9Go! (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
+#EXTINF:-1 tvg-logo="", 9Gem (Geo-blocked)
+https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
 #EXTINF:-1 tvg-logo="", Ausbiz TV
 https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
 #EXTINF:-1 tvg-logo="", ABC TV Plus

@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="", 3sat (Geo-blocked)
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-logo="", ORF 1 (Geo-blocked)
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1 tvg-logo="", ORF 2 (Geo-blocked)
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 tvg-logo="", ORF 3 (Geo-blocked)
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1 tvg-logo="", ORF Sport+ (Geo-blocked)
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 #EXTINF:-1 tvg-logo="", Servus TV
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
 #EXTINF:-1 tvg-logo="", Go TV

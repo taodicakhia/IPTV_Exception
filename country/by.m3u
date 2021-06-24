@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="", ONT (Geo-blocked)
+https://stream.hoster.by/ont/ont/playlist.m3u8

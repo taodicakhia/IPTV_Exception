@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="", ORF 1
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
-#EXTINF:-1 tvg-logo="", ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
-#EXTINF:-1 tvg-logo="", ORF 3
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:-1 tvg-logo="", ORF Sport+
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
