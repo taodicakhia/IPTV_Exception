@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="", ATB
+https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
+#EXTINF:-1 tvg-logo="", ATB Cochabamba
+https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
+#EXTINF:-1 tvg-logo="", Red A.D. Venir Internacional
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Red P.A.T
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Red P.A.T Plus
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
+#EXTINF:-1 tvg-logo="", UNO Santa Cruz
+https://iptv--iptv.repl.co/streamlink?url=https://www.dailymotion.com/embed/video/x825whp
+#EXTINF:-1 tvg-logo="", UNO La Paz
+https://iptv--iptv.repl.co/streamlink?url=https://www.dailymotion.com/embed/video/x828xvr
+#EXTINF:-1 tvg-logo="", UNO Cochabamba
+https://iptv--iptv.repl.co/streamlink?url=https://www.dailymotion.com/embed/video/x827j2y
+#EXTINF:-1 tvg-logo="", Bolivia TV 7.2 
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Mega TV (Yacuiba) 
+https://stmv.panel.mivideo.pro/rtv/rtv/chunklist_w849315537.m3u8
+#EXTINF:-1 tvg-logo="", RTP 
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TV LATINA CANAL 42 HD
+https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="", TVU 
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8

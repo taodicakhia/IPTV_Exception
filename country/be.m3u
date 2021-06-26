@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="", AB3
+http://flusonic-4.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="", ATV 
+https://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+#EXTINF:-1 tvg-logo="", BX1 
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Canal C 
+https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Canvas 
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="", City Music TV 
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Eén 
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Ketnet 
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Ketnet Junior 
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 tvg-logo="", LN24 
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 tvg-logo="", MaTele
+https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1413980839.m3u8
+#EXTINF:-1 tvg-logo="", MNM (Webradio) 
+https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="", Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Radio Contact 
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 tvg-logo="", Radio PROS 
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", RTL-TVi 
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 tvg-logo="", TV Oost 
+https://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
+#EXTINF:-1 tvg-logo="", TVL 
+https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+#EXTINF:-1 tvg-logo="", TVO 
+https://media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=oIFtpshSvwcy/oIFtpshSvwcy.m3u8

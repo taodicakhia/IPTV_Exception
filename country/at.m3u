@@ -9,6 +9,10 @@ https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 #EXTINF:-1 tvg-logo="", ORF Sport+ (Geo-blocked)
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 tvg-logo="", Austria 24 TV
+rtmp://streaming.austria24.tv/live/stream_720p
+#EXTINF:-1 tvg-logo="", Antenne VORARLBERG (Webradio)
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Servus TV
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
 #EXTINF:-1 tvg-logo="", Go TV
@@ -31,6 +35,8 @@ https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
 #EXTINF:-1 tvg-logo="", P3tv
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+#EXTINF:-1 tvg-logo="", Planai & Hochwurzen
+https://583548fa0d82b.streamlock.net/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="", R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Red Bull TV
