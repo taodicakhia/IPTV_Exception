@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="", Premium Channel
-http://premium-channel.tv:88/live/kali.m3u8
-#EXTINF:-1 tvg-logo="", EbS (Europe by Satellite)
-https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
-#EXTINF:-1 tvg-logo="", EbS+ (Europe by Satellite Plus)
-https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
