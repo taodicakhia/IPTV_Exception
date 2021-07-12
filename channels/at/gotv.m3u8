@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-STREAM-INF:BANDWIDTH=3074956,RESOLUTION=1024x576,CODECS="avc1.77.41,mp4a.40.2"
+https://nstream17.gotv.at:1443/live/gotvlive_576p/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1159236,RESOLUTION=640x360,CODECS="avc1.77.41,mp4a.40.2"
+https://nstream17.gotv.at:1443/live/gotvlive_360p/index.m3u8

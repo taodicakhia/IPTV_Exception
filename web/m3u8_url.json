@@ -1,0 +1,32 @@
+{
+	"server":[
+		{
+			"vtvgo": {
+				"vtv1": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html",
+				"vtv2": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html",
+				"vtv3": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html",
+				"vtv4": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html",
+				"vtv5": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html",
+				"vtv6": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html",
+				"vtv7": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv7-27.html",
+				"vtv8": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv8-36.html",
+				"vtv9": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html",
+				"vtv5tnb": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-t%C3%A2y-nam-b%E1%BB%99-7.html",
+				"vtv5tn": "https://vtvgo.vn/xem-truc-tuyen-kenh-k%C3%AAnh-vtv5-t%C3%A2y-nguy%C3%AAn-163.html"
+			},
+			"vtvnews": {
+				"vtv1": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv1.htm",
+				"vtv2": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv2.htm",
+				"vtv3": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv3.htm",
+				"vtv4": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv4.htm",
+				"vtv5": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv5.htm",
+				"vtv6": "https://vtv.vn/vtv6/truyen-hinh-truc-tuyen.htm",
+				"vtv7": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv7.htm",
+				"vtv8": "https://vtv.vn/vtv8/truyen-hinh-truc-tuyen.htm",
+				"vtv9": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv9.htm",
+				"vtv5tnb": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv5-tay-nam-bo.htm",
+				"vtv5tn": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv5-tay-nguyen.htm"
+			}
+		}
+	]
+}
