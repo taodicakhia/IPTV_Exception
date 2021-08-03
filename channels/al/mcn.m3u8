@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000,CODECS="avc1.42e00a,mp4a.40.2"
+http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,CODECS="avc1.42e00a,mp4a.40.2"
+http://edge01eu.ekranet.com/mcntv_360p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,CODECS="avc1.42e00a,mp4a.40.2"
+http://edge01eu.ekranet.com/mcntv_234p/index.m3u8
