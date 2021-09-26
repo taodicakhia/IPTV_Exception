@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-STREAM-INF:BANDWIDTH=2432399,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1732399,RESOLUTION=960x540,CODECS="avc1.64001e,mp4a.40.2"
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
