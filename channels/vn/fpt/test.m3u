@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1, VTV1
+#EXTVLCOPT:http-user-agent=toidicakhia
+vtv1.m3u8
